@@ -1,7 +1,7 @@
 package studentlist;
 
 /**
- *
+ * 05/21/2024
  * @author paulbonenfant
  */
 public class Student {
